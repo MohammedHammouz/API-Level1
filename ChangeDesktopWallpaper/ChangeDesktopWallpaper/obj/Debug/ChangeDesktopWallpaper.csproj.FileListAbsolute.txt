@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\bin\Debug\ChangeDesktopWallpaper.exe.config
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\bin\Debug\ChangeDesktopWallpaper.exe
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\bin\Debug\ChangeDesktopWallpaper.pdb
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\obj\Debug\ChangeDesktopWallpaper.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\obj\Debug\ChangeDesktopWallpaper.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\obj\Debug\ChangeDesktopWallpaper.exe
+C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\ChangeDesktopWallpaper\ChangeDesktopWallpaper\obj\Debug\ChangeDesktopWallpaper.pdb
