@@ -11,4 +11,5 @@ packages/
 *.exe
 *config
 *.csproj
+*.slnx
 Properties
