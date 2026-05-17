@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\bin\Debug\GetScreenResolution.exe.config
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\bin\Debug\GetScreenResolution.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\bin\Debug\GetScreenResolution.pdb
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\obj\Debug\GetScreenResolution.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\obj\Debug\GetScreenResolution.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\obj\Debug\GetScreenResolution.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\GetScreenResolution\GetScreenResolution\obj\Debug\GetScreenResolution.pdb

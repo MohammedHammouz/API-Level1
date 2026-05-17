@@ -1,8 +1,11 @@
 bin/
 obj/
+packages/
 .vs/
-Properties/
-*.csproj
-*.slnx
-*.config
+
 *.user
+*.suo
+*.cache
+
+*.dll
+*.exe

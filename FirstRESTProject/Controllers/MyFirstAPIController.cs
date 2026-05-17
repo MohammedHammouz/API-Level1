@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FirstRESTProject.Controllers
 {
     //[Route("api/[controller]")]
+    
     [Route("api/MyFirstAPI")]
     [ApiController]
     public class MyFirstAPIController : ControllerBase
@@ -12,6 +13,11 @@ namespace FirstRESTProject.Controllers
         public string MyName()
         {
             return "My name's Mohammed Al-Hammouz";
+        }
+        [HttpGet("MyAge", Name = "MyAge")]
+        public int MyAge()
+        {
+            return 30;
         }
         [HttpGet("YourName", Name = "YourName")]
         public string YourName()
@@ -28,5 +34,6 @@ namespace FirstRESTProject.Controllers
         {
             return Num1 * Num2;
         }
+
     }
 }

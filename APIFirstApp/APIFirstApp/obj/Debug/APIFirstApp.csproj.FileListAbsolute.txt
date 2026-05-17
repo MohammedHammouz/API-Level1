@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\bin\Debug\APIFirstApp.exe.config
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\bin\Debug\APIFirstApp.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\bin\Debug\APIFirstApp.pdb
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\obj\Debug\APIFirstApp.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\obj\Debug\APIFirstApp.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\obj\Debug\APIFirstApp.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\APIFirstApp\APIFirstApp\obj\Debug\APIFirstApp.pdb

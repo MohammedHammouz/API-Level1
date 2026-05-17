@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\bin\Debug\BatteryInfo.exe.config
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\bin\Debug\BatteryInfo.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\bin\Debug\BatteryInfo.pdb
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\obj\Debug\BatteryInfo.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\obj\Debug\BatteryInfo.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\obj\Debug\BatteryInfo.exe
-C:\Users\m7ama\OneDrive\Desktop\API-Level1\API-Level1\BatteryInfo\BatteryInfo\obj\Debug\BatteryInfo.pdb
