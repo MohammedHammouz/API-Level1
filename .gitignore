@@ -9,3 +9,6 @@ packages/
 
 *.dll
 *.exe
+*config
+*.csproj
+Properties
